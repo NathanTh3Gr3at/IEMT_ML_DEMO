@@ -2,7 +2,7 @@
 ## How to open on another machine
 <ol>
   <li>Clone the repo and open in VS Code</li>
-  <li>In the terminal run the command ***pip install -r requirements.txt***</li>
+  <li>In the terminal run the command <em><strong>pip install -r requirements.txt</strong></em> </li>
 </ol>
 
 ## About
