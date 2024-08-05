@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
-if __name__ ==__main__:
+if __name__ =='__main__':
    # Loading the dataset - both the traning set and the test set
     training_set=pd.read_csv('train.csv')
     testing_set=pd.read_csv('test.csv')
