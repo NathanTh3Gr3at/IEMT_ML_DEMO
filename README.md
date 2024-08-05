@@ -1,8 +1,8 @@
 # IEMT Machine Learning Demonstration
 ## How to open on another machine
 <ol>
-  <li>1. Clone the repo and open in VS Code</li>
-  <li>2. in the terminal run the command ***pip install -r requirements.txt***</li>
+  <li>Clone the repo and open in VS Code</li>
+  <li>In the terminal run the command ***pip install -r requirements.txt***</li>
 </ol>
 
 ## About
