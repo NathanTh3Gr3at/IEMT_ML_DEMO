@@ -12,6 +12,19 @@ Two datasets are provided the train.csv and test.csv, included as well is the ti
 - test.csv Used to verify the models accuracy
 - titanic.csv contains all columns and can be used inplace of the two datasets
 
-In this basic demonstration the accuracy of the model is arround 77% which could be improved but that would require cleaning the dataset and creating new training features.\
-## Note on Warnings
-The version of pandas that the model was made from was made before pandas 3.0 and will output warnings. The output will still be given.
+<details>
+<summary>train.csv</summary>
+<br>
+train.csv info
+<summary>test.csv</summary>
+<br>
+test.csv info
+<summary>titanic.csv</summary>
+  <br>
+  titanic.csv info
+</details>
+
+In this basic demonstration the accuracy of the model is arround 77% which could be improved but that would require cleaning the dataset and creating new training features.
+
+>[!NOTE]
+>The version of pandas that the model was made from was made before pandas 3.0 and will output warnings. The output will still be given.
